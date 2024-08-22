@@ -1,0 +1,4 @@
+- **Objectives:** Analyzed A/B test results to determine the effectiveness of different variations in driving key business metrics.
+- **Tools**: Used Python, statistical analysis libraries, and data visualization tools for comprehensive A/B testing.
+- **Strategies and Techniques:** Applied hypothesis testing, statistical significance analysis, and confidence interval calculations.
+- **Results:** Delivered insights on which variation performed better, aiding in data-driven decision-making for business improvements.
